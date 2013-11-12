@@ -1,0 +1,9 @@
+[submodule "grimoire"]
+	path = grimoire
+	url = https://github.com/volkovasystems/grimoire.git
+[submodule "ebla"]
+	path = ebla
+	url = https://github.com/volkovasystems/ebla.git
+[submodule "solomon"]
+	path = solomon
+	url = https://github.com/volkovasystems/solomon.git

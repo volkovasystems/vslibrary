@@ -1,0 +1,4 @@
+vslibrary
+=========
+
+VolkovaSystems library manager.
